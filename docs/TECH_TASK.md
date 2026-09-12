@@ -17,7 +17,7 @@
 
 **Ссылка на GitHub Pages:** [https://slaptor69.github.io/-Slaptor69-.github.io/]
 
-**Ссылка на основной pull request:** [ВСТАВЬТЕ ССЫЛКУ]
+**Ссылка на основной pull request:** [https://github.com/Slaptor69/-Slaptor69-.github.io/pull/1]
 
 ---
 
